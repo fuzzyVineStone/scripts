@@ -20,5 +20,4 @@ print('   +--------------+')
 for frequency in result:
     print('   |     ' + frequency + ':_' + str(result[frequency]) + '  \t  |')
     
-print('   +--------------+')
-print('')
+print('   +--------------+\n')
