@@ -1,7 +1,5 @@
 # fuzzyVineStone's Scripts
 
-[home][https://blank]
-
 ### Welcome
 
 This page is mostly dedicated to test the Github Pages feature.
