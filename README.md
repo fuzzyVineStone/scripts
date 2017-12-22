@@ -12,5 +12,5 @@ If you are interested, feel free to play around with or improve the code. The sc
 ### Todo
 
 1. translate.py
-  + Atbash should overlook whitespace
-  + Add more ciphers
+\t+ Atbash should overlook whitespace
+\t+ Add more ciphers
