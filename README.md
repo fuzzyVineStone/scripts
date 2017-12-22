@@ -14,4 +14,3 @@ If you are interested, feel free to play around with or improve the code. The sc
 1. translate.py
     + Atbash should overlook whitespace
     + Add more ciphers
-1. aksdl
