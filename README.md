@@ -1,8 +1,4 @@
-# fuzzyVineStone's Scripts
-
-[home](https://blank.blank)
-
-## Welcome
+## Scripts
 
 This page is mostly dedicated to test the Github Pages feature.
 It Is the page of my scripts. It is not yet very crowded, but I intend to add more as time goes by.
